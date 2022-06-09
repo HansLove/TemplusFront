@@ -1,0 +1,88 @@
+.container_datos_economy{
+    display: block;
+    margin-top: 0%;
+    margin-right: auto;
+    width: fit-content;
+    border-radius: 10%;
+    background-image: linear-gradient(45deg,rgba(255, 255, 255, 0.657),whitesmoke);
+    
+}
+
+.h1_datos_economy{
+    color: black;
+    text-align: center;
+    margin-top: 0%;
+    font-size: 2rem;
+    display: inline-block;
+    margin-right: 1%;
+}
+
+.h2_datos_economy{
+    display: block;
+    font-family: futura;
+    font-style: italic;
+    margin: auto;
+    text-align: center;
+    color:#313131;
+    font-size:3rem;
+    font-weight: bold;
+    animation:colorchange 20s infinite alternate;
+    
+    
+  }
+
+  @keyframes colorchange {
+    0% {
+      
+      color: rgb(8, 187, 157);
+    }
+    
+    10% {
+      
+      color: #7fc809;
+    }
+    
+    20% {
+      
+      color: #1abc9c;
+    }
+    
+    30% {
+      
+      color: #089db1;
+    }
+    
+    40% {
+      
+      color: rgb(57, 207, 11);
+    }
+    
+    50% {
+      
+      color: #34495e;
+    }
+    
+    60% {
+      
+      color: rgb(9, 206, 26);
+    }
+    
+    70% {
+      
+      color: #7fc288;
+    }
+    80% {
+   
+      color: #1fc409;
+    }
+    
+    90% {
+   
+      color: #97caaf;
+    }
+    
+    100% {
+      
+      color: rgb(15, 163, 64);
+    }
+  }

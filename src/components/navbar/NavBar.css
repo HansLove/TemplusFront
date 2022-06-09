@@ -1,0 +1,16 @@
+
+.Main{
+    width: 100%;
+    color: wheat;
+    background: black;
+    display: inline;
+    margin: auto;
+}
+
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+    margin: 8%;
+    font-size: 18px;
+  }

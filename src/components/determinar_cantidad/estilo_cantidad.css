@@ -1,0 +1,63 @@
+.input_cantidad_crypto{
+    font-size: 7.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    color: whitesmoke;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    margin-top: 5%;
+    padding: 1%;
+    background: transparent;
+    border-radius: 6%;
+    border: groove 2px rgb(90, 194, 5);
+    
+    
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.div_cuadro_1{
+    
+    width: 70%;
+    height: 70vh;
+    padding: 1%;
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 10%;
+}
+
+
+
+.h1_establece_la_cantidad{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 4rem;
+    display: block;
+    text-align: start;
+    width: fit-content;
+    margin: auto;
+    margin-top: 1%;
+}
+
+.button_next_step{
+    display: block;
+    margin-left: auto;
+    margin-right: 10%;
+    margin-bottom: auto;
+    width: fit-content;
+    border-radius: 5%;
+    color: whitesmoke;
+    font-size: 2rem;
+    background-image: linear-gradient(45deg,green,greenyellow);
+}
+
+.img_coin_1{
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    width: 15%;
+}
